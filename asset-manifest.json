@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/react-figma-card-prj/static/css/main.d16c7ef0.css",
+    "main.js": "/react-figma-card-prj/static/js/main.52e94fdf.js",
+    "static/media/2.png": "/react-figma-card-prj/static/media/2.6a88ff75d7f208edecba.png",
+    "static/media/4.png": "/react-figma-card-prj/static/media/4.0417bf0b399689d222e4.png",
+    "static/media/1.png": "/react-figma-card-prj/static/media/1.7c4b95b414f2ebf9d147.png",
+    "static/media/3.png": "/react-figma-card-prj/static/media/3.ddcb2a520a82647ac863.png",
+    "index.html": "/react-figma-card-prj/index.html",
+    "main.d16c7ef0.css.map": "/react-figma-card-prj/static/css/main.d16c7ef0.css.map",
+    "main.52e94fdf.js.map": "/react-figma-card-prj/static/js/main.52e94fdf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d16c7ef0.css",
+    "static/js/main.52e94fdf.js"
+  ]
+}
