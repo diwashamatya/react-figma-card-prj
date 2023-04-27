@@ -1,0 +1,149 @@
+* {
+
+    background-color: #000000;
+
+}
+
+.frame {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 4px 4px 8px;
+    gap: 16px;
+    isolation: isolate;
+    width: 201px;
+    height: 305px;
+    background: #000000;
+    border-radius: 8px;
+}
+
+.img {
+    width: 193px;
+    height: 193px;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    z-index: 0
+}
+
+.nameholder {
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 8px;
+    width: 185px;
+    height: 76px;
+    flex: none;
+    order: 0;
+    align-self: stretch;
+    flex-grow: 0;
+}
+
+.nftname {
+    width: 185px;
+    height: 20px;
+
+    /* 14/Title4Bold */
+
+    font-family: 'Sharp Grotesk';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 20px;
+    color: #FAFAFA;
+
+
+
+
+}
+
+.nftnameholder {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0px;
+    gap: 8px;
+    width: 181px;
+    height: 20px;
+
+}
+
+.bought {
+    width: 44px;
+    height: 20px;
+    font-family: 'Sharp Grotesk';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 20px;
+
+    color: #A2A2A2;
+
+
+
+}
+
+.floor {
+    width: 31px;
+    height: 20px;
+
+    /* 12/Title5Bold */
+
+    font-family: 'Sharp Grotesk';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 20px;
+    /* identical to box height, or 167% */
+
+
+    /* Text/Medium */
+
+    color: #A2A2A2;
+
+
+}
+
+.amount {
+    width: 35px;
+    height: 20px;
+
+    /* 12/Title5Bold */
+
+    font-family: 'Sharp Grotesk';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 20px;
+    /* identical to box height, or 167% */
+
+
+    /* Text/High */
+
+    color: #FAFAFA;
+
+}
+
+.amount1 {
+    width: 41px;
+    height: 20px;
+
+    /* 12/Title5Regular */
+
+    font-family: 'Sharp Grotesk';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 20px;
+    /* identical to box height, or 167% */
+
+
+    /* Sem/Success/OnSurface */
+
+    color: #19ED7B;
+
+}
