@@ -85,8 +85,8 @@ function Front({ percentage, img, img1, img2, lvl, title1, subtitle }) {
         </div>
 
 
-        <div className='button'>
-            <button>Subscribe</button>
+        <div >
+            <button className='button'>Subscribe</button>
         </div>
 
     </ div>
